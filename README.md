@@ -11,4 +11,5 @@ Setup in your local system-
 6. To increase the difficulty level, increase the "gravity" variable in FlappyBird.java file or decrease the "velocity" variable.
 7. Have any upgrade ideas ? Raise a PR 😌
 
-![FlappyBird - Made with Clipchamp](https://github.com/shikha-999/FlappyBirdGame/assets/89742115/862dc419-f5c3-4f6e-9874-ab6ac386f989)
+
+![FlappyBird - Made with Clipchamp](https://github.com/shikha-999/FlappyBirdGame/assets/89742115/fad36359-9c44-4031-97e2-2aebe5432817)
